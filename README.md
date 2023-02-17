@@ -1,3 +1,2 @@
 # georgedinnhamburger.github.io
-making my hamburger
-changing the code
+add ingediants based off what you think should be in the burger
